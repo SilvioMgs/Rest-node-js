@@ -1,0 +1,22 @@
+{
+  "name": "rest-api-node",
+  "version": "1.0.0",
+  "description": "API em Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilvioMgs/Rest-node-js.git"
+  },
+  "author": "Silvio Domingos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilvioMgs/Rest-node-js/issues"
+  },
+  "homepage": "https://github.com/SilvioMgs/Rest-node-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
